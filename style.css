@@ -5,6 +5,8 @@ body{
 background-color: #D9DDD4;
 }
 h1{
+  font-style: normal;
+  font-weight: normal;
   position: absolute;
   right: 227px;
   top: 270px;
